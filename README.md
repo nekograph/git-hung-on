@@ -1,3 +1,5 @@
 # git-hung-on
 $ git branch develop
-$ git 
+$ git add.
+$ git commit -m
+$ git log
